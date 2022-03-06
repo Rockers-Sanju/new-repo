@@ -14,7 +14,7 @@ public class CreateNewAccount {
 	}
     private void password() {
 	
-    	System.out.println("123456789");
+    	System.out.println("123456789 daATYGGIUII");
 
     }
     public static void main(String[] args) {
